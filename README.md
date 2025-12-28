@@ -1,4 +1,4 @@
-# Gemma Medical QA (LoRA)
+# Gemma Medical QA (LoRA) 🩺
 
 This repository contains a medical question–answering project built by fine-tuning **Google Gemma-2-2B-IT** using **LoRA (Low-Rank Adaptation)**.  
 The goal is to adapt a general-purpose large language model to the **medical QA domain** in a parameter-efficient and reproducible way.
